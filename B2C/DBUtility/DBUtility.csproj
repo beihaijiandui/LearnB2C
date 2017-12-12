@@ -7,8 +7,8 @@
     <ProjectGuid>{6907D443-9746-40A6-AB6E-0B98254689C4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DBUtility</RootNamespace>
-    <AssemblyName>DBUtility</AssemblyName>
+    <RootNamespace>B2C.DBUtility</RootNamespace>
+    <AssemblyName>B2C.DBUtility</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
